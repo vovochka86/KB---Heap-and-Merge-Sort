@@ -1,0 +1,22 @@
+{
+  "name": "heapsort_mergesort",
+  "version": "1.0.0",
+  "description": "Решение задач http://informatics.mccme.ru/mod/statements/view3.php?id=1129&chapterid=766#1 ",
+  "main": "heapsort.js",
+  "dependencies": {
+    "clone": "^2.1.1",
+    "js-sorting-algorithms": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Сортировка",
+    "слиянием",
+    "пирамидальная",
+    "сортировка"
+  ],
+  "author": "",
+  "license": "ISC"
+}
