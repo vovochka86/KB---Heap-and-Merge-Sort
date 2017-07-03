@@ -1,6 +1,9 @@
 var fs = require('fs');
 var clone = require ('clone');
+var readlineSync = require('readline-sync');
 var jssort = require('js-sorting-algorithms');
+var stairsNumb = readlineSync.question('Ввести количество ступенек: ');
+
 
 // read data from file
 console.log("Исходный масив");
